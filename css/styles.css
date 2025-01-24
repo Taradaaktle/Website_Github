@@ -10931,13 +10931,13 @@ p.lead {
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
-  margin-right: 1.5rem;
-}
-.social-icons .social-icon:last-child {
   margin-right: 15px;
 }
+.social-icons .social-icon:last-child {
+  margin-right: 5px;
+}
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #20c997;
 }
 
 .dev-icons {
