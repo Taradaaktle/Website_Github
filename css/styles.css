@@ -10927,17 +10927,17 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #20c997;
+  background-color: #495057;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
-  margin-right: 15px;
+  margin-right: 1.5rem;
 }
 .social-icons .social-icon:last-child {
-  margin-right: 5px;
+  margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #20c997;
+  background-color: #bd5d38;
 }
 
 .dev-icons {
@@ -10949,8 +10949,8 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
@@ -10966,7 +10966,7 @@ section.resume-section .resume-section-content {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 }
